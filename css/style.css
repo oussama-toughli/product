@@ -74,6 +74,7 @@ header.header .overlay .header-text .buttons button:last-of-type:hover {
 header.header .overlay .product-img {
   position: relative;
   margin-bottom: 30px;
+ 
 }
 
 header.header .overlay .product-img img.label {
